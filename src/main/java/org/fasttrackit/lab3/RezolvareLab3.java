@@ -9,7 +9,6 @@ public class RezolvareLab3 {
         Scanner consoleInput = new Scanner(System.in);
         System.out.println("Introduceti primul numar: ");
         float nr1 = consoleInput.nextFloat();
-        new Scanner(System.in);
         System.out.println("Introduceti al doilea numar: ");
         float nr2 = consoleInput.nextFloat();
         float medie = (nr1+nr2)/2;
