@@ -2,7 +2,7 @@ package org.fasttrackit.lab4;
 
 import java.util.Scanner;
 
-public class lab4 {
+public class Lab4 {
     public static void main(String[] args) {
         float medie = calculMedieAritmetica();
         System.out.println("Media aritmetica este: " + medie);
